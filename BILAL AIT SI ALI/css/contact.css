@@ -1,0 +1,81 @@
+.contact-content {
+    overflow: hidden;
+}
+
+.contact-item-icon {
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+
+.contact-item-icon.mg {
+    margin: 0 5%;
+    text-align: center;
+}
+
+.contact-item-icon .icon {
+    color: rgb(92, 148, 254);
+}
+
+.contact-icon-phone {
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin: 15px 0;
+}
+
+.contact-date {
+    color: #868f9b;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+.contact {
+    text-align: center;
+}
+
+.contact-form-class .contact-form-input input,
+.contact-form-input-next-Supject input,
+.contact-textarea textarea {
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: #f4f4f4;
+    border: 0;
+    margin: auto;
+    margin: 15px;
+    color: #354052;
+    font-size: 15px;
+}
+
+.contact-form-class .contact-form-input input {
+    width: 350px;
+    height: 40px;
+}
+
+.contact-form-input-next-Supject input {
+    width: 730px;
+    height: 40px;
+}
+
+.contact-textarea textarea {
+    width: 730px;
+    height: 90px;
+}
+
+.contact-button {
+    color: #fff;
+    background-color: #7ba7ff;
+    width: 180px;
+    height: 50px;
+    border: 0;
+    border-radius: 4%;
+    font-size: 17px;
+}
+
+.contact-button:hover {
+    opacity: 0.8;
+}
+
+.maps {
+    margin-top: 30px;
+}
